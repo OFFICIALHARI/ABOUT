@@ -1,110 +1,105 @@
-<h1 align="center">Hi 👋, I'm Harikrishnan S</h1>
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm HARIKRISHNAN S</h1>
 <h3 align="center">Full Stack Developer | Java | React | Cybersecurity Enthusiast</h3>
 
 <p align="center">
-  <a href="https://github.com/your-username">
-    <img src="https://img.shields.io/github/followers/your-username?label=Follow&style=social" />
-  </a>
-  <a href="mailto:harikrishnan777h@gmail.com">
-    <img src="https://img.shields.io/badge/Email-harikrishnan777h@gmail.com-red?style=flat-square&logo=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="https://leetcode.com/your-leetcode">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode" />
-  </a>
+  <a href="https://professional-portfolio-officialharis-projects.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-22272E?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/s_harikrishnan/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://github.com/officialhari" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/harikrishnan2006/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
 
-### 🚀 About Me
+### 💻 About Me
 
-I'm a pre-final year Computer Science Engineering student passionate about building secure and scalable web applications.
+I'm a pre-final year Computer Science Engineering student with hands-on experience in full stack development and a keen interest in cybersecurity. Currently focused on building secure web apps while solving DSA problems on LeetCode.
 
-💻 Currently focused on:
-- Full Stack Development using React.js & Node.js
-- Cybersecurity fundamentals & vulnerability analysis
-- Solving DSA problems on LeetCode
-- Blockchain basics & Web3 projects
-
-🎯 My goal is to bridge **development** and **security**, ensuring robust and safe applications.
-
-📬 [Download My Resume](#) • [GitHub Profile](https://github.com/your-username)
+- 🔭 I’m currently working on full-stack & cybersecurity projects  
+- 💡 Exploring the blend of **Development + Security**  
+- 💬 Ask me about Java, React, APIs, or OWASP Top 10  
+- 📫 Email: `harikrishnan777h@gmail.com`  
+- 📱 Phone: `+91 9092044451`  
 
 ---
 
-### 🧠 Skills & Tools
+### 🛠️ Skills
 
-#### 👨‍💻 Programming Languages
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+#### Programming Languages
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-#### 🌐 Web Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+#### Web Development
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-#### 🛠 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+#### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-#### 🛡 Cybersecurity
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logoColor=white)
-![Network Security](https://img.shields.io/badge/Network_Security-blue?style=for-the-badge)
-
----
-
-### 📜 Certifications
-
-- 🧪 **Postman API Fundamentals** – *Credential ID: CERT-API-123*
-- ☕ **Java Programming** – *Infosys | Credential ID: CERT-JAVA-456*
-- 🧬 **Crypto 101** – *Blockchain Council | Credential ID: CERT-CRYPTO-789*
+#### Cybersecurity
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white)
 
 ---
 
-### 💼 Projects
+### 🧠 Projects
 
-#### 🔐 [Secure Banking Portal](https://github.com/your-secure-banking-repo)
-A full-stack banking app with secure login, transactions, and real-time alerts.
-> **Tech:** React | Node.js | Express | MongoDB | JWT
+- 🔐 **Secure Banking Portal** – Full-stack app with JWT auth, secure transactions  
+- 🛒 **Eco E-commerce Assistant** – Browser extension with eco product recommendations  
+- 🛡️ **Vulnerability Scanner** – Detects XSS, SQLi, CSRF in web apps
 
-#### 🛒 [Eco E-commerce Assistant](https://github.com/your-eco-extension)
-Browser extension that recommends eco-friendly alternatives and compares prices.
-> **Tech:** React | Express | MongoDB
-
-#### 🕷 [Vulnerability Scanner](https://github.com/your-vuln-scanner)
-Detects web app vulnerabilities like SQLi, XSS, CSRF with reporting features.
-> **Tech:** Python | Flask | BeautifulSoup | JavaScript
+> 📂 Explore them on my [🌐 Portfolio](https://professional-portfolio-officialharis-projects.vercel.app)
 
 ---
 
 ### 🏆 Achievements
 
-- 🥇 **1st Year Academic Topper – CSE Dept.**
-- 🥉 **Hackathon Winner** – Secure Banking Solution (Nat. Science Day)
-- 🛡 **Cybersecurity Challenge Finalist** – Regional Level CTF
+- 🥇 1st Year Academic Topper (CSE)
+- 🥉 Hackathon Winner – National Science Day (Secure Banking App)
+- 🏅 Finalist – Cybersecurity Regional Challenge
 
 ---
 
-### 📬 Contact Me
+### 🔥 Streak Dashboard
 
-📧 Email: harikrishnan777h@gmail.com  
-📱 Phone: +91 9092044451  
-📍 Location: Chennai, Tamil Nadu, India  
+#### 🟢 GitHub Contribution Streak
 
 <p align="center">
-  <a href="mailto:harikrishnan777h@gmail.com"><img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://leetcode.com/your-leetcode"><img src="https://img.shields.io/badge/LeetCode-Stats-orange?style=for-the-badge&logo=leetcode" /></a>
+  <img src="https://streak-stats.demolab.com?user=officialhari&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+#### 🟡 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=officialhari&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialhari&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+#### 🟠 LeetCode Streak
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/s_harikrishnan?theme=dark&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 ---
 
+### 📫 Contact
+
+Feel free to connect for collaborations, internships, or project ideas!
+
+- 📧 Email: `harikrishnan777h@gmail.com`  
+- 📞 Phone: `+91 9092044451`  
+- 🌍 Portfolio: [professional-portfolio-officialharis-projects.vercel.app](https://professional-portfolio-officialharis-projects.vercel.app)  
+- 💼 LinkedIn: [linkedin.com/in/harikrishnan2006](https://www.linkedin.com/in/harikrishnan2006/)  
+
+---
+
+<p align="center">✨ Let's build secure, scalable, and meaningful software together!</p>
