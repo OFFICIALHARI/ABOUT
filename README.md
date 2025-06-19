@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack Developer | Java | React | Cybersecurity Enthusiast</h3>
 
 <p align="center">
-  <a href="https://professional-portfolio-officialharis-projects.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-22272E?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://harikrishnanprofessionalportfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-22272E?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://leetcode.com/u/s_harikrishnan/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
   <a href="https://github.com/officialhari" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/harikrishnan2006/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -97,7 +97,7 @@ Feel free to connect for collaborations, internships, or project ideas!
 
 - 📧 Email: `harikrishnan777h@gmail.com`  
 - 📞 Phone: `+91 9092044451`  
-- 🌍 Portfolio: [professional-portfolio-officialharis-projects.vercel.app](https://professional-portfolio-officialharis-projects.vercel.app)  
+- 🌍 Portfolio: [professional-portfolio-officialharis-projects.vercel.app](https://harikrishnanprofessionalportfolio.vercel.app/)  
 - 💼 LinkedIn: [linkedin.com/in/harikrishnan2006](https://www.linkedin.com/in/harikrishnan2006/)  
 
 ---
