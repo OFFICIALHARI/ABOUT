@@ -86,7 +86,7 @@ I'm a pre-final year Computer Science Engineering student with hands-on experien
 #### 🟠 LeetCode Streak
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/s_harikrishnan?theme=dark&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/officialharikrishnan?theme=dark&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 ---
